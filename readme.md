@@ -11,3 +11,6 @@ Backend (to wrap other quote api):
 - MongoDB
 - Mongoose
 Definitely more, time will tell
+
+Notes:
+- I am expecting the audience to build this app, so build tools will be a dependency, not a dev-dependency.
