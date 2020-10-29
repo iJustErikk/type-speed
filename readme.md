@@ -4,7 +4,7 @@ Technologies used:
 Frontend:
 - React
 - React router
-- MaterialUI
+- react-bootstrap
 
 Backend (to wrap other quote api):
 - Express
