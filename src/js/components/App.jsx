@@ -1,11 +1,11 @@
 import React from 'react';
-import Nav from './Nav';
+import Navigation from './Navigation';
 import Shell from './Shell';
 
 function App() {
   return (
     <>
-      <Nav />
+      <Navigation />
       <Shell />
     </>
   );
